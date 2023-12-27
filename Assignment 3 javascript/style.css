@@ -1,0 +1,40 @@
+#BookMark h1{
+    font-family: 'Pacifico','cursive';
+    font-size: 50px;
+    
+}
+#BookMark .header{
+    /* background-color: orange; */
+    width: 265px;
+    height: 70px;
+    margin-top: 50px;
+    
+}
+body{
+    background-color: rgb(247, 236, 222);
+    background-size: 100% 100%;
+    background-position: center center;
+    /* height: 100vh; */
+}
+.second-header .par{
+    color: rgb(64, 166, 92);
+}
+#BookMark{
+    background-color: rgb(247, 236, 222);
+    background-size: 100% 100%;
+    background-position: center center;
+    height: 100vh;
+}
+.second-header .site{
+    color: rgb(180, 172, 73);
+}
+.second-header .st{
+    color: rgb(180, 172, 73);
+}
+.second-header .str{
+    color: rgb(129, 169, 81);
+}
+.second-header{
+    font-size: 30px;
+}
+
